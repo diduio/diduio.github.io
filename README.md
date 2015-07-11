@@ -4,7 +4,7 @@
 
 ### 一个开源的Web开发技能导航页 - A OS Web Technology Radar
 
-#### 目前处于自用阶段 欢迎提出宝贵的建议 \_[-_-]_  Beta version & Glad for your wonderful thought
+#### 目前处于自用阶段 欢迎提出宝贵的建议 \_\[\-\_\-\]\_  Beta version & Glad for your wonderful thought
 
 #### 参与我们： - Join us:
 
